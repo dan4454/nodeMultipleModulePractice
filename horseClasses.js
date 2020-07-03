@@ -15,7 +15,7 @@ exports.Horse = class {
             var age1 = Math.random() * 80 + 10;    
             age1 = Math.round(age1);    
             var dd = new Date().toLocaleDateString()
-            data.push({name : Math.random() + '', age: age1 + '', dd})
+            data.push({name : Math.random() + '', age: age1 + '', birthDate: dd})
         }
         return data;
     }
