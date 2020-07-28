@@ -24,9 +24,6 @@ d.showHorseName();
 // console.log(dog.dogName);
 
 
-// console.clear();
-// console.log(new Date().toLocaleString());
-
 // f = new Files();
 // f.getList();
 // console.log(f.files);
