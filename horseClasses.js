@@ -6,7 +6,7 @@ exports.Horse = class {
     }
 
     showHorseName() {
-        // console.log('showing from inside the class method: ', this.name);
+        console.log('My horse is Flicka');
     }
 
     getHorsesList(){
