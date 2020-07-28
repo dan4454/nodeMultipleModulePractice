@@ -2,10 +2,8 @@
 
 console.clear()
 
-const { Files } = require('./server2');
+const { Files, Tests } = require('./server2');
 const { Horse } = require('./horseClasses')
-
-const { Tests } = require('./server2');
 
 example = require('./server2.js');
 console.log(example);
